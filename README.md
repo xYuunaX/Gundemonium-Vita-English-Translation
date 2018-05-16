@@ -6,9 +6,9 @@ Gundemonium Vita English Patch
 
 ![alt text](https://i.imgur.com/0fpmBdO.png)
 
-Story : 0% Translated
-Menus : ~95% Translated
-Graphics: 0% Translated
+- Story : 0% Translated
+- Menus : ~95% Translated
+- Graphics: 0% Translated
 
 How to Install:
 - Download & Setup rePatch (plugin https://github.com/dots-tb/rePatch-reDux0/releases/)
