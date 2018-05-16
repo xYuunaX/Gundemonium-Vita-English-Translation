@@ -14,6 +14,8 @@ How to Install:
 - Download & Setup rePatch (plugin https://github.com/dots-tb/rePatch-reDux0/releases/)
 - Drop the txt files in rePatch/PCSG01027/dat/
 
+Album:
+https://imgur.com/a/ptomv8c
 
 References:
 https://github.com/TheRadziu/NoNpDRM-modding/wiki
