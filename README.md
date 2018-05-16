@@ -1,6 +1,6 @@
-# Gundemonium-Vita-English-Translation
+# Gundemoniums-Vita-English-Translation
 
-Gundemonium Vita English Patch
+Gundemoniums Vita English Patch
 
 (Work-In-Progress)
 
