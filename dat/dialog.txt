@@ -1,0 +1,80 @@
+// SYSTEM DIALOG (JP)
+// 0x000
+Cannot find save data.
+Overwrite saved data?
+There is not enough free space on the memory card.
+Save data corrupted.
+Unable to load save data.
+Create new save data.
+(Earned trophies will remain)
+Cancel/Abort
+
+// 0x008
+Share save data with PlayStation® 4 version using Cross-Save feature.
+Share save data with PlayStation®Vita version using Cross-Save feature.
+Upload saved data?
+Download saved data?
+Uploading save data ... Please wait a moment ...
+Downloading save data ... Please wait a moment ...
+Save data synchronization process has completed.
+Save data synchronization process was canceled.
+
+// 0x010
+Must be Online in order to use this feature.
+Please try again later.
+There is no save data that can be downloaded.
+Save data could not be loaded.
+Initialize game settings and local scoreboard.
+Failed to load replay file.
+Failed to save replay file.
+Would you like to try again?
+
+// 0x018
+""
+""
+""
+""
+""
+""
+""
+""
+
+// 0x020 TCP timegate
+BEGIN
+DBEGIN
+DEND
+REFRESH
+MOVOBJ
+MOVPAR
+MOVER
+ENDLOOP
+
+// 0x028 OBJ counter
+DUMMY
+MENU
+PLAYER
+ENEMY
+BULLET
+DRAW
+NOSCR
+KEEPER
+
+// 0x030 SYS counter
+PARTICLE
+MOVER
+""
+""
+""
+""
+""
+""
+
+// 0x038
+""
+""
+""
+""
+""
+""
+""
+""

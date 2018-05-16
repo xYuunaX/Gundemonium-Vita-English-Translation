@@ -1,0 +1,98 @@
+ゆーあーざしゅーてぃんぐまーすたー。@e
+AREA1 CLEARED!@e
+AREA2 CLEARED!@e
+AREA3 CLEARED!@e
+AREA4 CLEARED!@e
+MISSION MODE UNLOCKED!@e
+DEMONIC CHALLENGE MODE COMPLETED!@e
+MATRIX ORDERS CHALLENGE MODE COMPLETED!@e
+REACHED ZONE X IN AIN SOPH AUR MODE!@e
+CLEARED THE GAME AS ERYTH!@e
+CLEARED THE GAME AS ERYTH EARLtypes!@e
+DESTOYED ENDYMION DURING THE DEMONIC SHIFT.@e
+DESTROYED 7 CROSS PIECES OF AENEA.@e
+DESTROYED ALL PARTS OF VOLCANNON!@e
+DESTROYED 16 CYCLONE IN ONE GAME.@e
+DESTROYED 64 LEAF STARS IN ONE GAME.@e
+DESTROYED SLAYER'S BODY ONLY.@e
+ALLOWED 3 BOMBS TO BE DESTROYED BY LUMIERE.@e
+DEFEAT PHASER AFTER LETTING IT KILL YOU.@e
+OBTAINED 4 LIFE ITEMS!@e
+DEFEATED ERESH KI GAL AND IRKALLA WITHOUT BOMBS!@e
+DEFEATED ELIXIREL WITHOUT BEING HIT!@e
+DEFEATED ELIXIREL KAETHER THROUGH TIME UP!@e
+DEFEATED ELIXIREL DAATH!@e
+OBTAINED 1,000 GEMS IN 1 AREA!@e
+PERFORMED a 1,000-HIT COMBO IN 1 AREA!@e
+OBTAINED 15,000,000 POINTS IN 1 GAME!@e
+PERFORMED 30 ONSLAUGHTS IN 1 GAME!@e
+PERFORMED 4 FRICTION BREAKS IN 1 GAME!@e
+PERFORMED 10 COUNTER BOMBS IN 1 GAME!@e
+PERFORMED 10 DEMONIC SHIFTS IN 1 GAME!@e
+REVIVED AFTER DYING.@e
+ENCOUNTERED & DEFEATED DYSNOMIA.@e
+数多の星々をその手におさめよ。@e
+月の影に舞い踊れ。@e
+列車強盗を射殺せよ。@e
+蒼穹航路を突破せよ。@e
+銃魔殿に突入せよ。@e
+少女には救済が必要である。@e
+銃霊廟の全てを制覇せよ。@e
+賢者の意志に触れた。@e
+涅槃の彼方に到達せよ。@e
+死神もたまには笑うことがある。@e
+棘ある華をその腕の中に。@e
+月影の裏の顔に制裁せよ。@e
+冒涜の十字架をたくさん粉砕せよ。@e
+火を吹く山の全てを踏破せよ。@e
+嵐の南瓜の迷宮を殲滅せよ。@e
+異星人は皆殺しだ。@e
+剣の王の心中を貫け。@e
+竜頭の女王の怒りを三度受けよ。@e
+死拳をその身に受けきった。@e
+全ての生命の魂を鎮めた。@e
+冥府の守りを起こしてはならない。@e
+代行者に華麗に勝利せよ。@e
+時を味方にして玉座の代行者に勝利せよ。@e
+失われた深淵より来たる使者に勝利せよ。@e
+より多くの煌く石を集めたものが称えられる。@e
+決してその手を緩めてはならない。@e
+偉大なる記録を目指すものに栄光あれ。@e
+突撃を恐れぬ果敢なる挑戦者へ。@e
+危険を恐れぬ者に幸あれ。@e
+因果にはもれなく応報を極めよ。@e
+死線を越えことを恐れることなかれ。@e
+死を垣間見た、その果てに。@e
+不法の来訪者との邂逅を果たし、よくわからせよ。@e
+RD178509220230@n@n刻に十八世紀@n錬金革命によって人類社会は@n飛躍的な発展をとげた。@n@nしかし、その繁栄の代償として@n人類は多くのよからぬ者たちを@nこの世界へ招き入れることとなった。@e
+RD178509220600@n@n東大陸縦断鉄道において@n列車襲撃事件が発生した。@nらしい。@n@n乗員乗客に生存者はいないようであるが@nとりあえず現場に急行し、迅速に対応せよ。@e
+RD178509221015@n@n西回帰線航路に大量のミスト雲が発生、@n調査部隊からの連絡が途絶えた。@n緊急事態発生と想定される。@n@n蒼穹航路を強行突破し現場へ急行せよ。@e
+RD178509221830@n@n人類がヨルドの泉より六個の賢者の石を持ち帰った際、@n開かれた時空項より現れた七つの魔殿。@nそのひとつがミスト雲の中心に顕現していた。@n@n世界の終末を奏でるマナ＝オベリスクの鈴の音が響き渡る。@n@n最優先指令：魔殿を封滅せよ。@e
+七罪の清算は賢者の石によって行われた。@n欠けたる残りひとつのそれは人の魂を用いられた。@n@nそしてそれは今@n世界の終末を奏でる鈴の音として@n永遠に許されざるものとして@n存在@nしていた。@e
+原罪を清算するという試みは旧き世界の秩序、神との死別を伴った。@nその反動として、人々の生存理由の拠りどころが失われ@n人類社会は混沌経由で穏やかな死へ片道直行便となった。@n己の存続の為には、新たなる世界の秩序が必要とされていたのである。@n@nそして、ある男の手により世界改変計画書「プロトコル」が持ち込まれた。@nこの計画を基に人々は己の存亡をかけ、地獄への扉をその手で開くことになる。@n―――これが、後の錬金革命の始まりだった。@e
+マトリクスマスターの中で最も初期に実現したマスター。@nプロメテウスによる神授以来、人類がもっとも親しんだ道具である@n火をヴィジョンとして、エネルギーの純粋な力への変換を得意とする。@n要はパワー至上主義の体力バカということである。@e
+次に実現したマスターは技術面の充実を実現することとなった。@n数多の宝石から発せられる、霊光をヴィジョンとする能力は@n様々な物質の変換や加工を得意として有用なものとなった。@n若干、器用貧乏すぎて能力がパワー不足気味なのが惜しまれる。@e
+3番目のマトリクスは精神の無限の力へのアプローチであった。@n時空を越える速度を持つ思考の力は想像を絶する可能性が秘められ@n恐らく最強のマトリクスなのだが、人類にとっては手に余る代物であり@nこれを使いこなすことはできなかった。@e
+4番目のマトリクスは前の失敗を教訓に再び物質面へと回帰した。@n無限の生命力をヴィジョンとしたこのマスターは無難に纏められ@n高速増殖と溢るるエネルギーにより扱い易いものとなった。@n生めよ殖やせよ富国強兵。@e
+マトリクスの研究も終盤に入り、生と死についてのアプローチが始まる。@n生命が終わりを迎えたときに生じる負のヴィジョンによる力は@n恐ろしく強烈であり、サファイアに匹敵する能力を持つと推測される。@n研究中に最も多くの犠牲を出した悪夢のマトリクス。@e
+最後のマトリクスは力に二面性を持たせるアプローチが行われた。@nここまでに培われた技術をバランスよく盛り込む予定であったが@n結果から言うと、半分に分けると引き出される能力もやはり半分であり@nひとつの機能に特化したほうが扱い易いという結論であばばばば。@e
+エリクシレルはデモニウム群の侵攻に対してマトリクスが不足する分を@n補うために人類が苦し紛れに作りだした人造マトリクスであるが@n彼女以外のアールシリーズは対マトリクス能力を持つに至らず@n人の手で賢者の意志を創造する計画は頓挫したままである。@e
+・Life MAX Value+@nAdditional Life(s)@e
+・Shot ATK Strenght+@nAll Attacks strenght increased, the effect@ndecreases in higher difficulties.@e
+・MANA Automatic Recovery@nMANA recovers over a period of time.@e
+・Overheat Suppression@nIncreases Overheating tolerances.@e
+・Combo limit extension@nCombo Limit gauge cap extended@nCombo less likely to break.@e
+・カスリ弾消し発生＋@nFriction number decreases@nuntil Friction Break occures.@e
+・＋Invincibility＋@nBecome Invincible to enemy bullets@n※NOTE※Cannot be damaged.@e
+・Unlock Rosa@nAdd Rosa as a playable character@e
+・Signet Activation@nYou cannot register scores or replays@nwhen Signet is active.@e
+RD178509230108@w魔殿の霊核の崩壊により銃魔殿の霊子場安定性が急激に悪化@n行き場を失った莫大な霊子量を消費減少させる為@nエージェント・エリスによって「代行者」の転魂儀式が即席で行われた。@w同時に「代行者」機能停止により@n銃魔殿も待機休眠状態に移行。@nこれにより、ローゼンクロイツ財団は作戦の完遂と認定。@n@w尚、このとき転魂した「代行者」は@n後にローゼンクロイツ財団によって保護されている。@n@n@wが、それはまた別の話で語られることになるだろう。@n@n@w■ MISSION COMPLETE@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+いつものようにミッションを終えたエリスのもとに@n@nいつものように騒がしく物騒なガキンチョが駆け寄ってくる。@wエリクシレル「えりすー、おしごとおわったのー？」@wエリス「うん・・・ってどうしたんだ、それ」@wエリクシレル「へへへー、うさみみやー@n　　　　　　これつけるとじかんとめられるんやでー」@nどうやらまた、誰か余計なオモチャを与えたようだ。@wエリス「・・・また総帥に怒られるから、やめてくれ」@wエリクシレル「えーっ@n　　　　　　つまんなぁーい」@wエリス「また、ごはん抜きになるぞ」@wエリクシレル「ぷー@n　　　　　　・・・わかった」@wローゼンクロイツ財団の@n今日の平和は@nこうして守られたのである。@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+クローベル博士「ミッションおつかれさま@n　　　　　　なにか、感想とか、ある？」@n@nアール「特にどうということもなく」@wクローベル博士「・・・それじゃ参考にならないじゃない」@n@nアール「余分な感情や思考は任務の妨げになります」@wクローベル博士「言い訳だけは上手いのね！」@n@nアール「そうでなければ戦場では生き残れませんから」@wクローベル博士「つべこべ言うと処分するわよ、この量産型！」@n@nアール「いいんですか？@n　　　勝手に処分して数が足りなくなると、また総帥に怒られますよ？」@wクローベル博士「だまらっしゃい！@n　　　　　　その減らず口を減らせるなら総帥のお小言ぐらい安いもんよ」@wアール「またおやつ抜きになりますよ？」@n@nクローベル博士「ぐっ・・・！@n　　　　　　運が良かったわね、今日は焼却炉が一杯のようだわ」@wクローベル博士の研究は今日も絶好調だ。@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+銃魔殿事件から約半年後@nローゼンクロイツ財団によって一人の女児が保護された。@nその女児は代行者エリクシレルの生まれ変わった姿であった。@n@w財団は前途の想像もつかぬ彼女の養育に厳戒態勢で臨んだが@n彼女は周囲の想像よりも穏やかに成長し@nホッと一息つくも拍子抜けしていた。@n@wが、ある日突然銃魔殿を呼び出してしまい@nなんとか本人に送還させるまでずっと大変な騒ぎに。@n@w以来お目付け役のエリスの監視下に置かれるが@nエリスとしてもこんなの監視しろと言われても困った話なのである。@n@wそんな物騒なガキンチョであるが@n最近はお菓子作りを覚えさせたせいか@n比較的平和な日々が続いており@n後片付けを銃魔殿にやらせようとしたこと以外は@n至って平穏な日々が続いている。@w願わくばこの平穏な日々が@n永遠に続いてくれるとよいのだが・・・。@n@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+アール「イヤッフーイチゲキデクリアー@n　　　チョット海デノンビリシテキマース！」@n@nクローベル博士「遊んでる暇があるなら@n　　　　　　　新型支援兵装のテスト手伝ってくれないかしら？」@n@wアール「イヤデース！@n　　　今日ノ作戦業務ハ全テ完遂シマシター！」@n@wクローベル博士「ちょっとぐらい手伝ってくれてもいいでしょ」@n@nアール「時間外労働ハブラック企業ノ始マリデース！@n　　　過労死シタクナイデース！」@n@w指揮官として設計されたコマンダータイプアールであるが@n利口で怠慢な設計通りの性能を発揮し、効率よく仕事を消化している。@n必要なこと以外はやらない、ホワイト労働の鑑だ。@n@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+レイチェル「ふぅ・・・」@n@wレイチェル「・・・ここはどこだにょろ？」@n@w地球と惑星リーフの間において@n連続しない時間軸を跨いで転写されたことにより@nレイチェルの存在可能性が過去と未来に無限に拡散された。@n結果、あらゆる時間軸にレイチェルが存在する確率が発生した。@n@wその広く僅かな可能性は、@n特定の事象による余波の影響を大きく受け収束することがある。@n銃魔殿事件による大規模な霊子変動もまた、そのひとつとなった。@n@w圧縮された確率によりレイチェルの存在可能性が閾値を越え@nなんだかよくわからないタイミングで@nまた何の必然性もなくアホメイドが出現したのである。@n@w勿論、誰も収拾をつけることはできない。@n@nおわり。@n@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+エリス「新型支援兵装試験完了・・・と」@n@wクローベル博士「いかがでしたか？」@n@nエリス「悪くないね@n　　　これが銃魔殿事件のときにあればもっと楽できたかな」@n@wクローベル博士「そうですか、では正式採用でよさそうですね@n　　　旧式のほうはどうします？」@n@wエリス「・・・がきんちょにくれてやるかな」@n@nクローベル博士「なるほど、彼女なら旧式本来の使い方が出来そうです」@n@w後日、新しい玩具を手に入れ@nはしゃいで財団の建物を破壊したエリクシレルに@n延々説教しているエリスの姿があったという。@n@w今日もローゼンクロイツ財団は平和だ。@n@w・・・平和だといいな。@n@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+エリス「以上でシミュレーションＧプログラムは終了です」@n@nローザ総帥「もう終わりなの？@n　　　　　もう少し遊びたいのだけど」@n@wエリス「総帥閣下、これは遊びの玩具ではないんです」@n@nローザ総帥「そんな～じゃあ、もう１ゲームお願い」@n@wエリス「ダメです、今日中に決裁が必要な書類がありますから@n　　　　あとゲームじゃないです」@n@nローザ総帥「ふえぇ～」@n@w今日もローゼンクロイツ財団はとても平和であった。@n@w■ MISSION is over.@n@nGUNDEMONIUMS@n(C)2003-2007 PlatineDispositif@n(C)2017 Mediascape Co., Ltd. / PlatineDispositif@w@e
+(96)@e
+(97)@e

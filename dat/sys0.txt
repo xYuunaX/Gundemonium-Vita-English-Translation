@@ -1,0 +1,919 @@
+// 0x000 _abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-
+GUNDEMONIUMS
+@ 2003-2007 PlatineDispositif @ 2017 Mediascape Co., Ltd. / PlatineDispositif
+DEMONSTRATION
+ver1.03
+""
+""
+Yes
+No
+
+// 0x008
+STORY MODE
+CONTINUE
+PRACTICE
+MISSION MODE
+SIGNET
+GAME RESULT
+GAME CONFIG
+GAME START
+
+// 0x010
+Play Story mode from the beginning
+Continue from previous area
+Select an Area to play
+Mission Mode
+Acquire and grant Signet
+View Game records
+Change game settings
+Start the game
+
+// 0x018
+Exit
+BGM Volume
+SE Volume
+Signet effect setting
+Tutorial
+Create Scoreboard
+(Reserve)
+Soundtrack
+
+// 0x020
+Save Cross-Save
+Load Cross-Save
+Key Configuration
+Restore default settings
+ON
+OFF
+16:9
+4:3
+
+// 0x028
+Exit
+Shoot
+M Action
+Bomb
+Slow
+Rapid Shot
+Shift/Burst
+Pause
+
+// 0x030
+Restore default settings
+Original
+Arranged
+Custom
+Auto Register
+Manual
+Online
+Local
+
+// 0x038 エントリーメニュー
+GAME MODE
+AREA
+SHIFT/BURST
+PLAYER
+TYPE
+WAIT A MOMENT
+OUT OF ORDER
+TARGET
+
+// 0x040
+ERYTH
+EARL TYPES
+ELIXIREL
+EARL TYPE-C
+RAECHEL
+ERYTH FSB
+ROSA
+ALL CHARA
+
+// 0x048
+Character select: Eryth Millfall
+Character select: Earl
+Character select: Elixirel Chrome Matrix Proxy
+Character select: Earl/Type-C
+Character select: Rachel Millfall
+Character select: Eryth with full Babel Range specification
+Character select: Rosa Christopher
+ARCHIEVED
+
+// 0x050
+RETURN TITLE
+RESUME GAME
+RESTART GAME
+GAME CONFIG
+Return to title screen
+Resume the game
+Start the game over
+Change game settings
+
+// 0x058
+REPLAY
+EARLTYPES
+LOCAL
+ONLINE
+FRIENDS
+BACK
+SKIP
+SOLD OUT
+
+// 0x060
+FRICTION
+SCORE
+AREA
+ZONE
+HITS
+MANA
+MISSION DIFFICULTY
+シグネットの発行と付与をしてやろう。
+
+// 0x068
+MAX Life Value
+SHOT Attack Power
+MANA Automatic Recovery
+Supress Overheating
+Combo limit extension
+カスリ弾消し発生＋
+＋汝ハ無敵ナリ＋
+総統出撃申請
+
+// 0x070
+SEIKA
+PRIMULA
+ELIZABETH
+CARINA
+CUSTOMIZE
+AREA1
+AREA2
+AREA3
+
+// 0x078
+AREA4
+AREA5
+ALL
+Chapter1: Moonlight Ball
+Chapter2: Super Train Robbery
+Chapter3: Azure Sea
+Chapter4: Gundemonium
+Chapter5: Proxy of Original Sin
+
+// 0x080
+PHASELEVEL
+SHOOTDOWN
+BOMBLEFT
+TIMELEFT
+BASICBONUS
+MAXHITS
+GETGEMS
+FRICTION
+
+// 0x088
+MAGNIFY
+TOTALBONUS
+THERE ARE CURRENTLY NO SELECTABLE MISSIONS
+LIFE EXTEND
+ONSLAUGHT BONUS
+DEFEAT BONUS
+MAX GEMPOINT
+DEMONICSHIFT
+
+// 0x090
+STAR FIRE
+TWIN DRILL
+LUCKY RAY
+PHOTON
+DAATH WHISPER
+DERRINGER
+RIZING SWORD
+HELL SPIKE
+
+// 0x098
+BLOOD RAIN
+OVERDRIVE
+SHOOTING STAR
+ROZENKREUZ
+STAR FIRE: FIRES A WIDE 5-WAY SHOT WITH A LARGE RANGE
+TWIN DRILL: TWO DRILLS THAT CAN PIERCE THROUGH ENEMIES
+LUCKY RAY: FIRES AN OPTICAL LASER THAT HITS ENEMIES INSTANTLY
+PHOTON: FIRES A HIGH-SPEED MISSILE THAT EXPLODES ON IMPACT
+
+// 0x0a0
+Daath Whisper: Causes an instantaneous Planeshift.(ON/OFF every time you press the Mana Action button.)
+Derringer: Releases reliable automatic attack equipment. (Consumes 33% of your Mana each time you use it.)
+Rising Sword: Fires a penetrating beam of light. (Requires at least 33% Mana and drains gradually over time.)
+Hell Spike: Uses a hellishly ultimate punch attach with a super-short range. (an Ultimate weapon of violent power.)
+Blood Rain: Calls a persistant ranged attack that does damage across the entire screen.
+Overdrive: Increases your attack power for a while.
+Shooting Star: Summons a ramppaging fire dragon to attack the entire screen.
+Rosenkreuz: Creates a rushing explosion of cross-shaped flashes in front of you.
+
+// 0x0a8
+""
+""
+""
+""
+""
+""
+""
+""
+
+// 0x0b0
+""
+""
+""
+""
+PHASE LEVEL DOWN
+AUTO COUNTER BOMB
+PHASE LEVEL UP
+ENEMYS BOMB BREAK
+
+// 0x0b8 ライフバースト
+NO MERCY
+DEMONIC SHIFT
+ALTER BURST
+OVERALL
+NO BURST
+デモニックシフト：ライフ消費/発動中、PHASELEVEL11に固定する
+アルターバースト：ライフ消費/発動中、エリア時間進行停止する
+Initialize...
+
+// 0x0c0 アールタイプ名前
+SEIKA
+SUJAKU
+MERMAID
+INGRID
+VILLOSA
+DAINTYBESS
+RUBRIFOLLA
+CINNAMON
+
+// 0x0c8
+PANICULIGERA
+LA FRANCE
+HUGONIS
+ESMERALDA
+RICHELIEU
+DAMASCENA
+LAEVIGATA
+MEIALFISAR
+
+// 0x0d0
+MULTIFLORA
+BLUE MOON
+CHABLIS
+ANGELA
+LUCIAE
+PRIMULA
+REGENSBERG
+SHIUN
+
+// 0x0d8
+NELLY
+SPARRIESHOOP
+HARMONIE
+TANROWISA
+DORIS
+SWANLAKE
+CARROUSEL
+KRONENBOURG
+
+// 0x0e0
+MAJORETTE
+CINDERELLA
+RUGOSA PLENA
+CATHERINE
+BANKSIAE
+ROSA CANINA
+RONSARD
+VIOLACEA
+
+// 0x0e8
+SNOW QUEEN
+HERITAGE
+ELIZABETH
+VAN SIAN
+SCARLET
+TAHITI
+MEIKINOSI
+PRISTINE
+
+// 0x0f0
+ADENOCHAETA
+KORICOLE
+MARGARET
+VIRIDIFLORA
+MICHELLE
+MATILDA
+TANFIFUM
+OSIANA
+
+// 0x0f8
+JACLAF
+LOUISE
+PEACE
+SARABANDE
+FROLIC
+LEONIDAS
+GIGANTEA
+CARINA
+
+// 0x100 エピック(勲章)
+SOLARIS
+ANTARES
+CANOPUS
+ARCTURUS
+KENTAURUS
+PLEIADES
+CAPELLA
+RIGEL
+
+// 0x108
+PROCYON
+ANDROMEDA
+ROSETTE
+SIRIUS
+FOMALHAUT
+ACRUX
+ALDEBARAN
+LEAF64
+
+// 0x110
+ARIDED
+POLLUX
+ALTAIR
+SOMBRERO
+SPICA
+MAGELLANIC
+VEGA
+BETELGEUSE
+
+// 0x118
+ACHERNAR
+TRAPEZIUM
+PRAESEPE
+HORSEHEAD
+HADAR
+REGULUS
+DUMBBELL
+MIMOSA
+
+// 0x120 ENEMYNAME
+DYSNOMIA
+""
+KABOCHA
+MAZEBOX
+LUMINA
+LAYCROSS
+BLASTBEAM
+SHARLEY
+
+// 0x128
+MARIEL
+MURASAMA
+BULLPUP
+IKAN NO OUI
+NOEL
+MEI CHEN
+SPINEL
+BULLPOP
+
+// 0x130
+ENDYMION
+AENEA
+LUNABBITS
+JETROAD
+RABBITS
+GUNPOD
+NOTHING
+POIPOI
+
+// 0x138
+SILVIANA
+PANELS
+PAMELAH
+FN P90
+DRUMS
+CROSSROAD
+ARROWS
+VOLCANON
+
+// 0x140
+CUCUCYCLONE
+SAMOHT
+CHANTAL
+HOMING BEAM
+LEAF238
+SHUTTER
+SHARLEY DEUX
+ISOVADER
+
+// 0x148
+TREMMY
+GALAPAGOS
+SLAYER
+MARIEL DEUX
+BICYCLE
+ETOILE FILANTE
+LUMIERE
+CROSSWAYS
+
+// 0x150
+L ETOIRS
+MONICA
+ROCKROLL
+X37564
+ROLL
+REGINA
+PAMELAH DEUX
+ONIBI
+
+// 0x158
+DOWNROAD
+ROLLRING
+PHASER
+PHASER AXEL
+ERESH KI GAL
+NAMTAR
+IRKALLA
+LASER100
+
+// 0x160
+JUNKMETAL
+LOOPRING
+ELIXIREL MALCHUT
+ELIXIREL YESOD
+ELIXIREL HOD
+ELIXIREL NETRECH
+ELIXIREL TIPHERETH
+ELIXIREL GEBURAH
+
+// 0x168
+ELIXIREL CHESED
+ELIXIREL BINAH
+ELIXIREL COCHMA
+ELIXIREL KAETHER
+ELIXIREL
+BINAH WHEEL
+ELIXIREL DAATH
+KONEKO
+
+// 0x170
+SERORI
+YUKI
+ALICE
+KAWORI
+TOMOE
+KAREN AND MIO
+MIO
+KAREN
+
+// 0x178
+ARGENTEUM ASTRUM
+ASTRAL FIELD
+MATRIXLORD LOTUS
+BLACK LOTUS
+XXX LOTUS BLACKER
+LOTUS BLOSSOM
+MOLAMOLA
+""
+
+// 0x180
+DYSNOMIA MI HABEKIYEH
+DYSNOMIA MI HA ASH
+DYSNOMIA MI AUQUINOS
+DYSNOMIA MARMEH LM
+""
+""
+""
+""
+
+// 0x188 禁則処理用
+、
+。
+DATE
+""
+""
+[V]
+[4]
+ゲームプレイ開始
+
+// 0x190
+LEADERBOARD
+EARLTYPES
+EPIC RECORD
+REPLAY MENU
+LOCAL
+GLOBAL
+FRIENDS
+NO DATA
+
+// 0x198
+Rank
+Player
+Score
+Character
+Play replay data
+Delete replay data
+リプレイをステージ単体で再生します
+[Warning] Are you sure you want to delete? [Warning]
+
+// 0x1a0
+RANKING
+EARL TYPES
+HISCORE
+TOTAL
+MISSION COMPLETE
+MISSION FAILED
+TIME UP
+CONGRATULATIONS
+
+// 0x1a8
+WWWWWWWWWWWWWWWW
+RUBY MASTER
+DIAMOND MASTER
+SAPPHIRE MASTER
+EMERALD MASTER
+JET MASTER
+PEARL MASTERS
+UNKNOWN
+
+// 0x1b0
+NO MERCY
+DEMONIC SHIFT
+ALTER BURST
+GAME OVER
+もうしありません、なんらかのしょりげんかい、またはエラーがはっせいしました。
+【シグネット有効：スコア/リプレイ登録ができません】
+Registration can not be performed because the maximum number of replays has been reached.
+Firing too much will cause overheating.
+
+// 0x1b8
+FILES:
+English Patch v1.00 by Yuuna
+:
+/
+LAST DATE
+TOTAL PLAYING TIME
+戦績残高
+EPIC RECORDS
+
+// 0x1c0 ボタン(PSV)
+□
+×
+○
+△
+L
+R
+(L2)
+(R2)
+
+// 0x1c8
+SELECT
+START
+(L3)
+(R3)
+""
+""
+""
+""
+
+// 0x1d0 ボタン(PS4)
+□
+×
+○
+△
+L1
+R1
+L2
+R2
+
+// 0x1d8
+(SHARE)
+OPTIONS
+L3
+R3
+""
+""
+""
+""
+
+// 0x1e0 リザルト項目
+Last Phase Level
+Average Phase Level
+Enemies Defeated
+Gems Acquired 
+Maximum Combo
+Onslaughts
+Deaths
+Bombs used
+
+// 0x1e8
+Area Reached
+Score
+Energy
+獲得戦績
+TRANSMIGRATIZE
+COMPLETED!!
+NO REPLAY FILE
+DO YOU WANT TO SAVE THE REPLAY?
+
+// 0x1f0 ゲームモード
+NOVICE
+REVISED
+UNLIMITED
+DEMONIC
+DEMONIC CHALLENGE
+MATRIX ORDERS
+AINSOPHAUR
+CALL OF DYSNOMIA
+
+// 0x1f8
+[PHASE LEVEL 2] A mode for beginners. (Automatic Counter Bombing.)
+[PHASE LEVEL 5] Standard mode.
+[PHASE LEVEL UNLIMITED] Expert Mode.
+PHASE LEVEL 11 固定 で撃ち返し弾がガンガン飛んでくるヤバいモード
+PHASELEVEL11固定のネームドエネミーをノーミスノーボムで撃破するミッション
+マトリクスマスターをノーミスノーボムで撃破するミッション
+PHASELEVEL無制限(Unlimited相当)で涅槃を突破するミッション
+ディスノミアちゃんとキャッキャウフフするミッション
+
+// 0x200 DEMONIC CHALLENGE
+BULLPUP
+SHARLEY
+NOEL
+MARIEL
+MEI CHEN
+ENDYMION
+AENEA
+VOLCANON
+
+// 0x208
+SILVIANA
+PAMELAH
+SAMOHT
+CHANTAL
+SHARLEY DEUX
+BULLPOP
+TREMMY
+SLAYER
+
+// 0x210
+MARIEL DEUX
+L ETOIRS
+ETOILE FILANTE
+LUMIERE
+MONICA
+X37564
+REGINA
+ROLL
+
+// 0x218
+PAMELAH DEUX
+PHASER
+PHASER AXEL
+ERESH KI GAL
+NAMTAR
+IRKALLA
+ELIXIREL MALCHUT
+ELIXIREL YESOD
+
+// 0x220
+ELIXIREL HOD
+ELIXIREL NETRECH
+ELIXIREL TIPHERETH
+ELIXIREL GEBURAH
+ELIXIREL CHESED
+ELIXIREL BINAH
+ELIXIREL COCHMA
+ELIXIREL KAETHER
+
+// 0x228 MATRIX ORDERS
+RUBY MASTER
+DIAMOND MASTER
+SAPPHIRE MASTER
+EMERALD MASTER
+JET MASTER
+PEARL MASTERS
+UNKNOWN
+""
+
+// 0x230
+♪Re:collection
+♪タキシード☆ナイト
+♪GaGa de BonGa
+♪ピッピーピピーピー
+♪ストームレイダース
+♪Cieligne 1784
+♪400万と5920発の魔弾
+♪Helft mir klagen
+
+// 0x238
+♪Second Re:incarnation
+♪銃霊廟パンテオン
+♪或いは平穏な(と思われる)日々
+♪PhantastiqueSummerTeaParty
+♪Lord of Power Nine
+　
+♪Lord of Power Nine (REMIX)
+""
+
+// 0x240 WEAPONS
+REVOLVER
+FORTUNA WHEEL
+BABEL RANGE
+SHOT
+MANA
+BOMB
+STARFIRE
+DAATH WIND
+
+// 0x248
+GUNDEMONIUM
+LONGINUS
+GUNBIT
+MILLENARIA
+REVOLVERS
+BABEL RANGE
+BABEL MATRIX
+
+// 0x250
+HAMMER28TH
+JUMP
+NO MERCY
+DOLL ATTACK
+SUMMON DOLL
+DOLL ASSAULT
+HISCORE
+WIN
+TRY
+
+// 0x258 REPLAYLIST
+REPLAY
+BACK
+DELETE
+NEXT PAGE
+--
+DS
+AB
+DELETING...
+
+// 0x260
+NOV
+REV
+UNL
+DEM
+DCH
+MMS
+000
+DYSNOMIA
+
+// 0x268
+ALL
+AREA 1
+AREA 2
+AREA 3
+AREA 4
+AREA 5
+ZONE A
+ZONE B
+
+// 0x270
+ZONE C
+ZONE D
+ZONE E
+ZONE F
+ZONE G
+ZONE H
+ZONE I
+ZONE J
+
+// 0x278
+ZONE K
+ZONE L
+ZONE M
+ZONE N
+ZONE O
+ZONE P
+ZONE Q
+ZONE R
+
+// 0x280
+ZONE S
+ZONE T
+ZONE U
+ZONE V
+ZONE W
+ZONE X
+ZONE XX
+ZONE XXX
+
+// 0x288
+""
+Shot
+ManaAction
+BombAttack
+Slow
+RapidShot
+Shift/Burst
+Pause
+
+// 0x290
+Shoot enemies with normal shots.
+Mana action has various special effects,
+Mana is consumed upon usage.
+Green items will replenish mana.
+Bombs can block enemy bullets and  
+damage enemies at the same time.
+The center of the red area is the weakpoint.
+If you're hit here, you will lose a life.
+
+// 0x298
+Shoot faster with the RAPID button.
+If you use dual shot too much it overheats,
+You will not be able to shoot for a while.
+The mission will start soon.
+Are you ready?
+""
+""
+""
+
+// 0x2a0
+Shoot enemies with shots.
+Mana action has various special effects,
+Consume mana power when using.
+Mana power gets green item and recovers.
+Bomb has erased enemy bullets and has a 
+special effect.Consume a stock when using.
+The red part of the center is a hit with an
+enemy bullet. If you hit here you will lose a life.
+
+// 0x2a8
+Shoot dual shot with the RAPID button.
+If you use too much dual shot it overheats,
+The shot will not be able to shoot for a while.
+The mission will start soon.
+Are you ready?
+""
+""
+""
+
+// 0x2b0 server status
+Connecting to server...
+Communicating with the server...
+The server is down.
+The server is busy.
+Unable to reach the server.
+Please try again after some time.
+件の未登録ハイスコアがあります
+未登録のハイスコアはありませン
+
+// 0x2b8
+The replay has been recorded.
+Score has been registered.
+Completed.
+The online scoreboard may take a while to update.
+""
+""
+""
+""
+
+// 0x2c0
+""
+""
+""
+""
+""
+""
+""
+""
+
+// 0x2c8
+""
+""
+""
+""
+""
+""
+""
+""
+
+// 0x2d0
+""
+""
+""
+""
+""
+""
+""
+""
+
+// 0x2d8
+""
+""
+""
+""
+""
+""
+""
+""
