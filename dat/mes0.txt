@@ -78,7 +78,7 @@ RD178509221830@n@n人類がヨルドの泉より六個の賢者の石を持ち�
 最後のマトリクスは力に二面性を持たせるアプローチが行われた。@nここまでに培われた技術をバランスよく盛り込む予定であったが@n結果から言うと、半分に分けると引き出される能力もやはり半分であり@nひとつの機能に特化したほうが扱い易いという結論であばばばば。@e
 エリクシレルはデモニウム群の侵攻に対してマトリクスが不足する分を@n補うために人類が苦し紛れに作りだした人造マトリクスであるが@n彼女以外のアールシリーズは対マトリクス能力を持つに至らず@n人の手で賢者の意志を創造する計画は頓挫したままである。@e
 ・Life MAX Value+@nAdditional Life(s)@e
-・Shot ATK Strenght+@nAll Attacks strenght increased, the effect@ndecreases in higher difficulties.@e
+・Shot ATK Strength+@nAll Attacks strength increased, the effect@ndecreases in higher difficulties.@e
 ・MANA Automatic Recovery@nMANA recovers over a period of time.@e
 ・Overheat Suppression@nIncreases Overheating tolerances.@e
 ・Combo limit extension@nCombo Limit gauge cap extended@nCombo less likely to break.@e
